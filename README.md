@@ -44,8 +44,6 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 
 - 🧮 **GradePad** – A smart GPA and course management tool built with React, Node.js, and MySQL.
 
-👉 Check out my pinned repos below for more!
-
 ---
 
 ## 📊 GitHub Stats
