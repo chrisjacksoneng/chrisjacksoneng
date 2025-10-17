@@ -68,4 +68,4 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 
 ## 🐍 GitHub Snake
 
-![snake gif](https://github.com/chrisjackson/chrisjackson/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/chrisjacksoneng/chrisjacksoneng/blob/output/github-contribution-grid-snake.svg)
