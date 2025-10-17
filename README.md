@@ -50,7 +50,7 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjackson&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjacksoneng&layout=compact&theme=radical&hide_border=true)
 
 ---
 
