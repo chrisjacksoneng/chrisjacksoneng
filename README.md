@@ -56,16 +56,6 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 
 ---
 
-<details>
-  <summary>✨ A Little More About Me</summary>
-  
-  - 🧑‍💻 Passionate about blending **engineering + design**  
-  - 🌍 Interested in **AI**, **fintech**, and **human-centred design**  
-  - ⚽ Outside of tech: I love soccer, track, and outdoor adventures
-</details>
-
----
-
 ## 🐍 GitHub Snake
 
 ![Snake animation](https://github.com/chrisjacksoneng/chrisjacksoneng/blob/output/github-contribution-grid-snake.svg)
