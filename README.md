@@ -50,12 +50,10 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 
 ## 📊 GitHub Stats
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisjackson&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjackson&layout=compact&theme=radical&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=chrisjackson&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjackson&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🐍 GitHub Snake
+## 🐍 GitHub Activity
 
 ![Snake animation](https://raw.githubusercontent.com/chrisjacksoneng/chrisjacksoneng/output/github-contribution-grid-snake.svg)
