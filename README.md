@@ -2,14 +2,18 @@
 
 I'm a **Systems Design Engineering** student at the University of Waterloo passionate about **UI/UX design**, **software development**, and building products that make a real impact.
 
-- 💻 **Software Engineering Intern @QQuote
+- 💻 **Software Engineering Intern @QQuote**  
 - 🧠 Machine Learning Engineer @WAT.ai  
 - 🌱 Currently exploring design systems, AI tools, and full-stack development  
 - 📍 Waterloo, Ontario, Canada
 
 📫 **Let’s connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisjackson-/)
-[![Email](https://img.shields.io/badge/Email-c8jackso%40uwaterloo.ca-red?style=flat&logo=gmail&logoColor=white)](mailto:c8jackso@uwaterloo.ca)
+<a href="https://www.linkedin.com/in/chrisjackson-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:c8jackso@uwaterloo.ca" target="_blank">
+  <img src="https://img.shields.io/badge/Email-c8jackso%40uwaterloo.ca-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
@@ -49,7 +53,6 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisjackson&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjackson&layout=compact&theme=radical&hide_border=true)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=chrisjackson&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 
 ---
 
